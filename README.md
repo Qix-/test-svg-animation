@@ -1,1 +1,1 @@
-<img src="cube.svg" />
+<img src="cube2.svg" />
